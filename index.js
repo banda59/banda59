@@ -33,19 +33,17 @@ const parser = new Parser({
   }
 
   // 기존 "Latest Blog Posts" 섹션 대체
-  const updatedContent = readmeContent.includes("### 😽🔐 Latest Blog Posts")
-    ? readmeContent.replace(
-        /### 😽🔐 Latest Blog Posts[\s\S]*?(?=\n\n## |\n$)/,
-        latestPosts
-      )
-    : readmeContent + "\n\n" + latestPosts;
+  const regex = /### 😽🔐 Latest Blog Posts\n---\n\n[\s\S]*?(?=\n\n## |\n$|$)/;
+  if (regex.test(readmeContent)) {
+    // 기존 섹션이 있으면 대체
+    readmeContent = readmeContent.replace(regex, latestPosts);
+  } else {
+    // 기존 섹션이 없으면 새로 추가
+    readmeContent += "\n\n" + latestPosts;
+  }
 
   // 변경된 내용 저장
-  if (updatedContent !== readmeContent) {
-    writeFileSync(readmePath, updatedContent, "utf8");
-    console.log("README.md 업데이트 완료");
-  } else {
-    console.log("새로운 블로그 포스트가 없습니다. README.md 파일이 업데이트되지 않았습니다.");
-  }
+  writeFileSync(readmePath, readmeContent, "utf8");
+  console.log("README.md 업데이트 완료");
 })();
 
