@@ -16,7 +16,7 @@ const parser = new Parser({
 (async () => {
   // RSS 피드 가져오기
   const feed = await parser.parseURL("https://spacefriend.tistory.com/rss");
-
+ 
   // 인사말과 GIF 추가
   const headerSection = `# Hi, I'm banda 👋\n\n![chipi](https://github.com/banda59/README/blob/main/gif/chipi-chipi-chapa-chapa.gif)\n`;
 
