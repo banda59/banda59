@@ -32,8 +32,8 @@ const parser = new Parser({
     latestPosts += `- [${title}](${link})\n`;
   }
 
-  // 기존 README.md에 최신 블로그 포스트 추가
-  const newReadmeContent = readmeContent.includes("### 😽🔐 Latest Blog Posts")
+  // 기존 "Latest Blog Posts" 섹션 대체
+  const updatedContent = readmeContent.includes("### 😽🔐 Latest Blog Posts")
     ? readmeContent.replace(
         /### 😽🔐 Latest Blog Posts[\s\S]*?(?=\n\n## |\n$)/,
         latestPosts
@@ -41,10 +41,11 @@ const parser = new Parser({
     : readmeContent + "\n\n" + latestPosts;
 
   // 변경된 내용 저장
-  if (newReadmeContent !== readmeContent) {
-    writeFileSync(readmePath, newReadmeContent, "utf8");
+  if (updatedContent !== readmeContent) {
+    writeFileSync(readmePath, updatedContent, "utf8");
     console.log("README.md 업데이트 완료");
   } else {
     console.log("새로운 블로그 포스트가 없습니다. README.md 파일이 업데이트되지 않았습니다.");
   }
 })();
+
