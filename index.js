@@ -17,7 +17,7 @@ const parser = new Parser({
   // RSS 피드 가져오기
   const feed = await parser.parseURL("https://spacefriend.tistory.com/rss"); // 수정
  
-  const greeting = "# Hi, I'm banda 👋\n---\n\n";
+  const greeting = "# Hi, I'm banda 👋\n---\n\n![chipi](https://github.com/banda59/README/blob/main/gif/chipi-chipi-chapa-chapa.gif)";
 
   // 최신 5개의 글의 제목과 링크를 추가할 텍스트 생성
   let latestPosts = "### Latest Blog Posts\n\n";
