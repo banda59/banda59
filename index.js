@@ -7,9 +7,9 @@ import Parser from "rss-parser";
  */
 let text = `# Hi, I'm banda 👋\n\n
 
-![pachi](https://github.com/banda59/banda59/blob/main/gif/Kirby.gif)
+![pachi](https://github.com/banda59/banda59/blob/main/gif/omori.gif)
 
-## 🔐😽 Latest Blog Posts\n\n
+## 🪐🛰️ Latest Blog Posts\n\n
 
 `;
 
