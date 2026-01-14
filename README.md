@@ -2,9 +2,9 @@
 
 
 
-![pachi](https://github.com/banda59/banda59/blob/main/gif/Kirby.gif)
+![pachi](https://github.com/banda59/banda59/blob/main/gif/omori.gif)
 
-## 🔐😽 Latest Blog Posts
+## 🪐🛰️ Latest Blog Posts
 
 
 
