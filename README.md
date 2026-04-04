@@ -52,13 +52,13 @@ Hi, I am a university student majoring in cybersecurity.
 
 <p align="center">
   <a href="https://www.instagram.com/b4nd59">
-    <img src="https://img.shields.io/badge/Instagram-@b4nd59-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-@b4nd59-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Discord-higary_-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
+  <img src="https://img.shields.io/badge/DISCORD-higary_-000000?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  &nbsp;
   <a href="https://b4nda.com">
-    <img src="https://img.shields.io/badge/Website-b4nda.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/WEBSITE-b4nda.com-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
 </p>
 
