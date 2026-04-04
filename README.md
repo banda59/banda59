@@ -72,7 +72,7 @@ Hi, I am a university student majoring in cybersecurity.
 ## Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/banda59/banda59/output/github-stats-crt" alt="Pixel profile GitHub stats" />
+  <img src="https://raw.githubusercontent.com/banda59/banda59/output/github-stats-crt.png" alt="Pixel profile GitHub stats" />
 </p>
 
 <p align="center">
