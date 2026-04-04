@@ -16,11 +16,11 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate CRT stats card
+      - name: Generate CRT theme stats card
         uses: LuciNyan/pixel-profile/action@main
         with:
-          crt_outputs: |
-            dist/github-stats-crt?username=banda59&include_all_commits=true
+          outputs: |
+            dist/github-stats-crt?username=banda59&theme=crt&include_all_commits=true
 
       - name: Push generated cards to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
