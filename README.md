@@ -52,20 +52,17 @@ Hi, I am a university student majoring in cybersecurity.
 
 <p align="center">
   <a href="https://www.instagram.com/b4nd59">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" width="44" />
+    <img src="https://img.shields.io/badge/Instagram-@b4nd59-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.instagram.com/b4nd59"><strong>@b4nd59</strong></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=discord&theme=light" alt="Discord" width="44" />
-  <strong>higary_</strong>
+  <img src="https://img.shields.io/badge/Discord-higary_-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://b4nda.com">
-    <img src="./gif/kel2.gif" alt="Website" width="44" />
+    <img src="https://img.shields.io/badge/Website-b4nda.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://b4nda.com"><strong>b4nda.com</strong></a>
 </p>
 
-<p align="right">
+<p align="center">
   <img src="./gif/sprout.png" alt="Sprout Mole character" width="84" />
 </p>
 
