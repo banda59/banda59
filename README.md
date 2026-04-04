@@ -54,19 +54,14 @@ Hi, I am a university student majoring in cybersecurity.
   <a href="https://www.instagram.com/b4nd59">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" width="44" />
   </a>
-  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/b4nd59"><strong>@b4nd59</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=discord&theme=light" alt="Discord" width="44" />
-  &nbsp;&nbsp;
+  <strong>higary_</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://b4nda.com">
     <img src="./gif/kel2.gif" alt="Website" width="44" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://www.instagram.com/b4nd59"><strong>@b4nd59</strong></a>
-  &nbsp;&nbsp;&nbsp;
-  <strong>higary_</strong>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://b4nda.com"><strong>b4nda.com</strong></a>
 </p>
 
@@ -77,7 +72,7 @@ Hi, I am a university student majoring in cybersecurity.
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=banda59&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=111111&icon_color=111111" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/banda59/banda59/output/github-stats-crt" alt="Pixel profile GitHub stats" />
 </p>
 
 <p align="center">
