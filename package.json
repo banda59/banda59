@@ -1,0 +1,25 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banda59/README.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banda59/README/issues"
+  },
+  "homepage": "https://github.com/banda59/README#readme",
+  "description": "",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
